@@ -9,6 +9,6 @@ Summary
 ပုံလေးတွေကို Answers JSON မှာပါသော QuestionId နှင့်ချိတ်ဆက်နိုင်ပြီး Answers JSON ကနေ ထုတ်ပြနိုင်ပါတယ် Image Folder ပါတစ်ပါတည်းထည့်သွင်းထားပါတယ်
 3. ပုံများပြသပြီး‌နောက် ပုံများထဲမှ တစ်ပုံရွေးချယ်ပြီးပါက ၎င်းပုံနှင့်သက်ဆိုင်သော အဖြေကို ပြသပေး၍ ဤတွင် တစ်ခန်းရပ်ပါပြီ
 
-![Alt text](https://raw.githubusercontent.com/sannlynnhtun-coding/Pick-A-Pile/main/PickAPileFlow1.jpg)
-![Alt text](https://raw.githubusercontent.com/sannlynnhtun-coding/Pick-A-Pile/main/PickAPileFlow2.jpg)
-![Alt text](https://raw.githubusercontent.com/sannlynnhtun-coding/Pick-A-Pile/main/PickAPileMindMap.PNG)
+![Alt text](https://raw.githubusercontent.com/sannlynnhtun-coding/Pick-A-Pile/main/PickAPileFlow1.jpg?token=GHSAT0AAAAAACICUZFLYD36PJW5AKVIQOO2ZJIJ44A)
+![Alt text](https://raw.githubusercontent.com/sannlynnhtun-coding/Pick-A-Pile/main/PickAPileFlow2.jpg?token=GHSAT0AAAAAACICUZFKQ7N6AZ5JMRF4T5G4ZJIJ5PQ)
+![Alt text](https://raw.githubusercontent.com/sannlynnhtun-coding/Pick-A-Pile/main/PickAPileMindMap.PNG?token=GHSAT0AAAAAACICUZFLBNYWXJKB3S3BYFEUZJIJ5VQ)
