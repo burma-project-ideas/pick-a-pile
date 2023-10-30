@@ -15,4 +15,7 @@ Image Folder လေးပါတစ်ပါတည်းထည့်သွင်�
 ![Alt text](https://raw.githubusercontent.com/sannlynnhtun-coding/Pick-A-Pile/main/PickAPileMindMap.PNG?token=GHSAT0AAAAAACICUZFLBNYWXJKB3S3BYFEUZJIJ5VQ)
 - [Yoon Yoon (Using HTML,CSS and little bit of Aos Js)](https://github.com/yoonren6324/Tarot.git)
 - [Arkar Myo Min (JavaScript)](https://github.com/akmm-dev/pick-a-pile)
-- [Htet Myat (NextJs)](https://github.com/MgHtetMyatAung/pick-a-pile)
+- [Lin Thit (React.Js)](https://github.com/LinThit27/Pick-A-Pile-React-Tailwind-Node-Express)
+ 
+
+
